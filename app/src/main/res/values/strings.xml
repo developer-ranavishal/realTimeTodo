@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">realmtodoapp</string>
+    <string name="enter_todo_title">Enter Todo Title..</string>
+</resources>

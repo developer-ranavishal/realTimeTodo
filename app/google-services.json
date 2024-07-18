@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495618903134",
+    "project_id": "realmtodoapp",
+    "storage_bucket": "realmtodoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495618903134:android:6dda5ac1f413e4a154b8cf",
+        "android_client_info": {
+          "package_name": "com.app.realmtodoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLRvzkdl-X6IMsdrIDKVhXl4dmcqJJrhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
